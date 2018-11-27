@@ -1,6 +1,6 @@
 # document-store
 
-> A Vue.js project
+> A Vue Web application intent to share document between people.
 
 ## Build Setup
 
