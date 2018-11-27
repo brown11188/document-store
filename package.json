@@ -1,7 +1,7 @@
 {
   "name": "document-store",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A Vue Web application intent to share document between people.",
   "author": "Huy Bui",
   "private": true,
   "scripts": {
