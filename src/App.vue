@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="full-height flex-col">
     <nav>
       <div class="container">
         <ul class="nav__left">
@@ -15,7 +15,9 @@
         </ul>
       </div>
     </nav>
-    <router-view/>
+    <div class="flex-col flex-auto">
+      <router-view/>
+    </div>
   </div>
 </template>
 
